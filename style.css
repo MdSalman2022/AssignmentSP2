@@ -1,0 +1,41 @@
+p{
+    font-size: 25px;
+}
+header{
+    overflow: hidden;
+}
+
+header p{
+    float:left;
+    padding: 10px 20px;
+    margin-left: 100px;
+    margin-right: 100px;
+    border: 2px solid black;
+    color: black;
+    border-radius: 10px;
+}
+
+img {
+    float:left;
+    width: 50%;
+    margin-right: 20px;
+    border-radius: 10px;
+}
+.textbox{
+    overflow: hidden;
+    padding: 20px;
+    border: 2px solid black ;
+    border-radius: 10px;
+}
+
+.firstLine{
+    color: #ff5200;
+}
+
+.secondLine{
+    color:#3366ff;
+}
+
+.thirdLine{
+    color: #16c453;
+}
